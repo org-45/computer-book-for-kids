@@ -5,10 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "export": "next export"
-
+    "start": "npx serve@latest out",
+    "lint": "next lint"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.15",

@@ -1,4 +1,5 @@
-import { getPostData } from '../../../lib/posts';
+import { getSortedPostsData, getPostData } from '../../../lib/posts';
+import { PostData } from '../../../lib/posts';
 
 interface PostProps {
   params: {
@@ -6,12 +7,21 @@ interface PostProps {
   };
 }
 
+
+export async function generateStaticParams() {
+  const posts = getSortedPostsData();
+  return posts.map((post) => ({
+    id: post.id, 
+  }));
+}
+
 export default async function PostPage({ params }: PostProps) {
-  const postData = await getPostData(params.id);
+  const postData: PostData = await getPostData(params.id);
 
   return (
     <article className="prose max-w-none">
       <h1 className="text-4xl font-bold mb-4">{postData.title}</h1>
+      <small className="text-gray-500">{postData.date}</small>
       <div
         className="prose"
         dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
@@ -19,3 +29,4 @@ export default async function PostPage({ params }: PostProps) {
     </article>
   );
 }
+
