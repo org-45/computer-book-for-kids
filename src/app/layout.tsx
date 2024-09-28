@@ -1,20 +1,19 @@
 import './globals.css';
-import Link from 'next/link';
+import { getSortedPostsData } from '@/lib/posts';
+import ChapterNavigation from '@/components/ChapterNavigation';
 
 export const metadata = {
-  title: 'My Book Blog',
-  description: 'A book-like blog with chapters',
+  title: 'CS for starters | org45',
+  description: 'Computer Science for starter. Replacement for entry-level CS book.',
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-  const chapters = [
-    { id: 'chapter-1', title: 'Chapter 1' },
-    { id: 'chapter-2', title: 'Chapter 2' },
-  ];
+  // Fetch chapter data on the server
+  const chapters = getSortedPostsData();
 
   return (
     <html lang="en">
@@ -23,15 +22,9 @@ export default function RootLayout({
           {/* Left Navigation */}
           <nav className="w-1/4 bg-gray-100 p-6">
             <h2 className="text-xl font-bold mb-4">Chapters</h2>
-            <ul>
-              {chapters.map((chapter) => (
-                <li key={chapter.id} className="mb-2">
-                  <Link href={`/posts/${chapter.id}`} passHref className="text-blue-600 hover:underline">
-                    {chapter.title}
-                  </Link>
-                </li>
-              ))}
-            </ul>
+
+            {/* Use the Client-Side ChapterNavigation Component */}
+            <ChapterNavigation chapters={chapters} />
           </nav>
 
           {/* Main Content */}
