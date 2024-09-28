@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Input and Output Devices'
 date: '2024-09-28'
 ---
 

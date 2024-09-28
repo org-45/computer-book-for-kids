@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Recursion: When Functions Call Themselves'
 date: '2024-09-28'
 ---
 

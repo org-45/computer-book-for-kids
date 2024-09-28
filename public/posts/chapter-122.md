@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Basics of Graphic Design'
 date: '2024-09-28'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'System Software vs. Application Software'
 date: '2024-09-28'
 ---
 

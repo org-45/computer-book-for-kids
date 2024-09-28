@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Software Development Life Cycle'
 date: '2024-09-28'
 ---
 

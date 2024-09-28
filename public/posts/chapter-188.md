@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Basic Data Structures: Lists and Arrays'
 date: '2024-09-28'
 ---
 

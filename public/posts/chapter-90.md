@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Software Updates and Patches'
 date: '2024-09-28'
 ---
 

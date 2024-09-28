@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Software Licensing and Open Source'
 date: '2024-09-28'
 ---
 

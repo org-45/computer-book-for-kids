@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Computational Thinking Across Disciplines'
 date: '2024-09-28'
 ---
 

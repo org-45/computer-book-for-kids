@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Basics of Robotics Hardware'
 date: '2024-09-28'
 ---
 

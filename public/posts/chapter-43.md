@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Types of Data: Text, Numbers, Images, Sound'
 date: '2024-09-28'
 ---
 

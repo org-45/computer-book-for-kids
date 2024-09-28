@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Introduction to Digital Media'
 date: '2024-09-28'
 ---
 

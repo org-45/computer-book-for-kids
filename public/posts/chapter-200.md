@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Careers That Use Computational Thinking'
 date: '2024-09-28'
 ---
 

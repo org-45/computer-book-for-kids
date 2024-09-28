@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Data Visualization: Charts and Graphs'
 date: '2024-09-28'
 ---
 

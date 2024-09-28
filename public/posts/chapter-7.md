@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Memory and Storage: RAM vs. Hard Drives'
 date: '2024-09-28'
 ---
 

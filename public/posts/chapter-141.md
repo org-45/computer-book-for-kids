@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'What Is Robotics?'
 date: '2024-09-28'
 ---
 

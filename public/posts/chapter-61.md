@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Computer Components Overview'
 date: '2024-09-28'
 ---
 

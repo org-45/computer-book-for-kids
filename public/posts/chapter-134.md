@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Responsive and Adaptive Design'
 date: '2024-09-28'
 ---
 

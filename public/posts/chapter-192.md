@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Debugging Strategies'
 date: '2024-09-28'
 ---
 

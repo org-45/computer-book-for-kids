@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Ethics in Data Usage'
 date: '2024-09-28'
 ---
 

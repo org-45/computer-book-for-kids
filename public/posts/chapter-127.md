@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Animation Principles'
 date: '2024-09-28'
 ---
 

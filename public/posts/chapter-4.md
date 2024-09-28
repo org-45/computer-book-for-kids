@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Understanding Hardware and Software'
 date: '2024-09-28'
 ---
 

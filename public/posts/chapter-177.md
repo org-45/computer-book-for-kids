@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Parental Controls and Safe Computing for Kids'
 date: '2024-09-28'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Cyber Laws and Regulations'
 date: '2024-09-28'
 ---
 

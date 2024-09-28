@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Color Theory in Digital Design'
 date: '2024-09-28'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Command-Line Interfaces'
 date: '2024-09-28'
 ---
 

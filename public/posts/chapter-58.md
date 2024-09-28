@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Open Data and Its Benefits'
 date: '2024-09-28'
 ---
 

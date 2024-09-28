@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Types of Computers: Desktops, Laptops, Tablets, Smartphones'
 date: '2024-09-28'
 ---
 

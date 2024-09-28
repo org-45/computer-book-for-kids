@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Network Topologies: Star, Ring, Bus, Mesh'
 date: '2024-09-28'
 ---
 

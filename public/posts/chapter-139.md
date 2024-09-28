@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Protecting Intellectual Property'
 date: '2024-09-28'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'How Data Travels Over the Internet'
 date: '2024-09-28'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Algorithms in Daily Life'
 date: '2024-09-28'
 ---
 

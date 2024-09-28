@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Pseudocode: Writing Algorithms Simply'
 date: '2024-09-28'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Ethics of Robotics and Automation'
 date: '2024-09-28'
 ---
 

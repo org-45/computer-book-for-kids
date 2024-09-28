@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Network Hardware: Routers, Switches, Modems'
 date: '2024-09-28'
 ---
 

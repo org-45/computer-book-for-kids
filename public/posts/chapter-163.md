@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Malware: Viruses, Worms, Trojans'
 date: '2024-09-28'
 ---
 

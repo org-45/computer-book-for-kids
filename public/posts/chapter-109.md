@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'The Internet of Things (IoT)'
 date: '2024-09-28'
 ---
 

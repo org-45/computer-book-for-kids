@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'The Future of Digital Ethics'
 date: '2024-09-28'
 ---
 

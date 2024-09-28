@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Virtual Reality and Augmented Reality'
 date: '2024-09-28'
 ---
 

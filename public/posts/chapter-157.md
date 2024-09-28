@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'The Impact of Automation on Jobs'
 date: '2024-09-28'
 ---
 

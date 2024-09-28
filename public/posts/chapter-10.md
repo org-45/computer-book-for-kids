@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Binary Code: The Language of Computers'
 date: '2024-09-28'
 ---
 

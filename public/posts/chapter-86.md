@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'User Interfaces: How We Interact with Computers'
 date: '2024-09-28'
 ---
 

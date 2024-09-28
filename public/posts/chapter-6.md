@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'The Central Processing Unit (CPU)'
 date: '2024-09-28'
 ---
 

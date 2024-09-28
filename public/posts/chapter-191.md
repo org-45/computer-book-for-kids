@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Applying Algorithms to Solve Problems'
 date: '2024-09-28'
 ---
 

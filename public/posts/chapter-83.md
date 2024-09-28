@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Operating System Functions'
 date: '2024-09-28'
 ---
 

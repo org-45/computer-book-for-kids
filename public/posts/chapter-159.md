@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Competitions and Robotics Clubs'
 date: '2024-09-28'
 ---
 

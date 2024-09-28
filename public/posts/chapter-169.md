@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Privacy in the Digital World'
 date: '2024-09-28'
 ---
 

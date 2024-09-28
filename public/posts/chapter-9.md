@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Operating Systems: The Basics'
 date: '2024-09-28'
 ---
 

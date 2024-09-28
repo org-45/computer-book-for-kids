@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Input Devices: Keyboards, Mice, Touchscreens'
 date: '2024-09-28'
 ---
 

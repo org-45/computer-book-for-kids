@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'The Importance of Cybersecurity'
 date: '2024-09-28'
 ---
 

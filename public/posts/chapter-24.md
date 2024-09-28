@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Decomposition: Breaking Down Problems'
 date: '2024-09-28'
 ---
 

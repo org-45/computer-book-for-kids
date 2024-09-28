@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Digital Footprint and Reputation Management'
 date: '2024-09-28'
 ---
 

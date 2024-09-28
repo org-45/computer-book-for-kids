@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Variables and Data Storage Concepts'
 date: '2024-09-28'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Abstraction: Focusing on Important Details'
 date: '2024-09-28'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Embedded Systems in Everyday Gadgets'
 date: '2024-09-28'
 ---
 

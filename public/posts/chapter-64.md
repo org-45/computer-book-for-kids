@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Storage Devices: HDDs, SSDs, and More'
 date: '2024-09-28'
 ---
 

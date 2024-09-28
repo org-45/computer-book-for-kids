@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Cloud Computing: Storing Data Online'
 date: '2024-09-28'
 ---
 

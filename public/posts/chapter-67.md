@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Graphics and Sound Cards'
 date: '2024-09-28'
 ---
 

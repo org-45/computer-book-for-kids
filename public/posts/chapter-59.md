@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Careers in Data Science'
 date: '2024-09-28'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Loops: Repeating Actions'
 date: '2024-09-28'
 ---
 

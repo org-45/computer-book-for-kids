@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Motherboards: The Backbone of Computers'
 date: '2024-09-28'
 ---
 

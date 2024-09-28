@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Ethical Hacking and Security Testing'
 date: '2024-09-28'
 ---
 

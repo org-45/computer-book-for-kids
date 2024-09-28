@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Understanding IP Addresses and DNS'
 date: '2024-09-28'
 ---
 

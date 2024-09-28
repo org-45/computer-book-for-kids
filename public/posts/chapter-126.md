@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Video Production Basics'
 date: '2024-09-28'
 ---
 

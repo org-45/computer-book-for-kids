@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Types of Networks: LAN, WAN, PAN, MAN'
 date: '2024-09-28'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Understanding Sequences and Instructions'
 date: '2024-09-28'
 ---
 

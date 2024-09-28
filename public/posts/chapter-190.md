@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Logic Puzzles and Games'
 date: '2024-09-28'
 ---
 

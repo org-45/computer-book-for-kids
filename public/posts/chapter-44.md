@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Data Representation: Binary and Beyond'
 date: '2024-09-28'
 ---
 

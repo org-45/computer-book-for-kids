@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Two-Factor Authentication'
 date: '2024-09-28'
 ---
 

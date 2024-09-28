@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'User Interface (UI) Elements'
 date: '2024-09-28'
 ---
 

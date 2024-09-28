@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Optimization: Making Things Better'
 date: '2024-09-28'
 ---
 

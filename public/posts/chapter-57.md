@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Data in Science and Research'
 date: '2024-09-28'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Cyber Threats: Viruses, Malware, Phishing'
 date: '2024-09-28'
 ---
 

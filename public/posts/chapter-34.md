@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Sorting Algorithms: An Introduction'
 date: '2024-09-28'
 ---
 

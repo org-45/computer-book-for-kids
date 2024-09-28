@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Digital Photography Fundamentals'
 date: '2024-09-28'
 ---
 

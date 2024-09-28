@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Wireless Networking: Wi-Fi and Bluetooth'
 date: '2024-09-28'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Databases: Organizing Information'
 date: '2024-09-28'
 ---
 

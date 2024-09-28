@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Conditional Logic: If-Then Statements'
 date: '2024-09-28'
 ---
 

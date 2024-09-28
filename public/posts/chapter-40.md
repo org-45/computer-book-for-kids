@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'The Future of Algorithms'
 date: '2024-09-28'
 ---
 

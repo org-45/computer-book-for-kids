@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Net Neutrality and Internet Governance'
 date: '2024-09-28'
 ---
 

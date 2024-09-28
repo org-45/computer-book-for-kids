@@ -1,5 +1,5 @@
 ---
-title: 'What Is a Computer?'
+title: 'Gaming Software Fundamentals'
 date: '2024-09-28'
 ---
 
