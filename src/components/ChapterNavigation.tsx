@@ -16,7 +16,7 @@ interface ChapterNavigationProps {
 
 export default function ChapterNavigation({ chapters }: ChapterNavigationProps) {
   const [currentPage, setCurrentPage] = useState(1);
-  const chaptersPerPage = 15;
+  const chaptersPerPage = 12;
 
   const totalPages = Math.ceil(chapters.length / chaptersPerPage);
 
@@ -38,24 +38,24 @@ export default function ChapterNavigation({ chapters }: ChapterNavigationProps) 
   };
 
   return (
-    <Card className="w-full">
+    <Card className="w-full h-screen fixed top-0 left-0 md:w-1/4 bg-gray-100 flex flex-col">
       <CardHeader>
+        <h2 className="text-xl font-bold">Chapters</h2>
       </CardHeader>
-      <CardContent>
+      <CardContent className="flex-grow overflow-y-auto">
         {/* Scrollable List */}
-        <ul className="overflow-y-auto h-auto space-y-2">
+        <ul className="space-y-2">
           {currentChapters.map((chapter) => (
             <li key={chapter.id}>
               <Link href={`/posts/${chapter.id}`} passHref className="text-lg text-blue-900 hover:text-blue-400 transition-colors duration-200">
-            
                   {chapter.title}
-                
               </Link>
             </li>
           ))}
         </ul>
-
-        {/* Pagination Controls */}
+      </CardContent>
+      {/* Pagination Controls */}
+      <div className="p-4">
         <div className="flex justify-between mt-6">
           <Button
             variant="secondary"
@@ -72,7 +72,7 @@ export default function ChapterNavigation({ chapters }: ChapterNavigationProps) 
             Next
           </Button>
         </div>
-      </CardContent>
+      </div>
     </Card>
   );
 }
