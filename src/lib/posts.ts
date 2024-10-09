@@ -37,21 +37,28 @@ export async function getPostDataSlide(id: string) {
 
 export function getSortedPostsData() {
   const fileNames = fs.readdirSync(postsDirectory);
-  return fileNames.map((fileName) => {
-    const id = fileName.replace(/\.md$/, ''); 
+  
+  return fileNames
+    .map((fileName) => {
+      const id = fileName.replace(/\.md$/, ''); 
 
-    const fullPath = path.join(postsDirectory, fileName);
-    const fileContents = fs.readFileSync(fullPath, 'utf8');
+      const fullPath = path.join(postsDirectory, fileName);
+      const fileContents = fs.readFileSync(fullPath, 'utf8');
 
-    const matterResult = matter(fileContents);
+      const matterResult = matter(fileContents);
 
-    return {
-      id,
-      title: matterResult.data.title,
-      date: matterResult.data.date,
-      contentHtml: '',
-    };
-  });
+      const chapterNumber = parseInt(id.replace('chapter-', ''), 10);
+
+      return {
+        id,
+        title: matterResult.data.title,
+        date: matterResult.data.date,
+        contentHtml: '',
+        chapterNumber, // Store the chapter number for sorting
+      };
+    })
+
+    .sort((a, b) => a.chapterNumber - b.chapterNumber);
 }
 
 export async function getPostData(id: string): Promise<PostData> {
