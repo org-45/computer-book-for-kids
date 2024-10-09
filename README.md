@@ -11,6 +11,11 @@ This project is a **computer-book-for-kids** built with **Next.js**, **TypeScrip
 - **Responsive Design**: The project uses Tailwind CSS to create a responsive and modern user interface.
 - **SEO-Friendly**: Optimized for search engines with proper use of metadata.
 
+## How to contribute?
+
+1. Fork/Clone the repo
+2. Edit the markdown files in public/posts/chapter-[number].md . Check chapter 1 markdown as reference. 
+3. After validating markdown in Preview modo, make a PR to org-45 repo.
 
 #### Tentative Syllabus
 
