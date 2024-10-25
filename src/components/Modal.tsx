@@ -2,7 +2,7 @@
 
 import {useEffect, useState} from 'react';
 import {Dialog, DialogContent, DialogTitle, DialogDescription, DialogClose} from '@radix-ui/react-dialog';
-import {IoMdClose} from 'react-icons/io'; 
+import {IoMdClose} from 'react-icons/io';
 
 const ResponsiveModal: React.FC = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -26,7 +26,7 @@ const ResponsiveModal: React.FC = () => {
                     </DialogClose>
 
                     <DialogTitle className="text-lg md:text-xl font-bold m-4">
-                        Welcome to a Crowdsourced "To Be Written" Book for Kids
+                        Welcome to a Crowdsourced &quot;To Be Written&quot; Book for Kids
                     </DialogTitle>
                     <DialogDescription className="text-sm md:text-base">
                         Have you ever seen those YouTube videos where they explain Quantum Computing to a 5-year-old, a
@@ -36,11 +36,11 @@ const ResponsiveModal: React.FC = () => {
                         <br />
                         <br />
                         Together, we will develop a syllabus and collaborate to create a simple yet powerful book that
-                        introduces complex computing concepts in a way that's easy for young minds to understand.
+                        introduces complex computing concepts in a way that&apos;s easy for young minds to understand.
                         <br />
                         <br />
-                        Thanks for checking us out, feel free to check the Github repo where you can make this book
-                        platform even better and/or even write chapter of your choice.
+                        Thanks for checking us out. Feel free to check the GitHub repo where you can make this book
+                        platform even better and/or write a chapter of your choice.
                     </DialogDescription>
                 </div>
             </DialogContent>
