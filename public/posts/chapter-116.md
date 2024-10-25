@@ -114,4 +114,3 @@ A **virus** is a type of harmful software that can spread from one computer to a
 Cyber threats like viruses, malware, and phishing are constantly evolving, but by understanding these threats and taking precautions, you can significantly reduce the risk of being targeted. Stay vigilant, keep your software up to date, and always be cautious when sharing personal information online.
 
 ---
-Submit a PR at https://github.com/org-45/computer-book-for-kids
