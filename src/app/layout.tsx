@@ -2,8 +2,8 @@ import './globals.css';
 import ChapterNavigation from '@/components/ChapterNavigation';
 import {ReactNode} from 'react';
 
-import {convertMarkdownToHtml} from '@/lib/utils';
-import {getSortedPostsData, getPostData} from '@/lib/posts';
+// import {convertMarkdownToHtml} from '@/lib/utils';
+import {getSortedPostsData} from '@/lib/posts';
 import Collab from '@/components/Collab';
 
 export const metadata = {
@@ -14,8 +14,8 @@ export const metadata = {
 export default async function RootLayout({children}: {children: ReactNode}) {
     const chapters = getSortedPostsData();
 
-    const currentPostData = await getPostData('chapter-1');
-    const contentHtml = await convertMarkdownToHtml(currentPostData.contentHtml);
+    // const currentPostData = await getPostData('chapter-1');
+    // const contentHtml = await convertMarkdownToHtml(currentPostData.contentHtml);
 
     return (
         <html lang="en">
