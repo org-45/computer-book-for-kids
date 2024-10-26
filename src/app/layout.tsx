@@ -6,6 +6,8 @@ import Modal from '@/components/Modal'
 import {getSortedPostsData} from '@/lib/posts';
 import Collab from '@/components/Collab';
 
+import {GoogleAnalytics} from '@next/third-parties/google';
+
 export const metadata = {
     title: 'CS for starters | org45',
     description: 'Computer Science for starter. Replacement for entry-level CS book.',
@@ -17,6 +19,7 @@ export default async function RootLayout({children}: {children: ReactNode}) {
     return (
         <html lang="en">
             <body>
+                <GoogleAnalytics gaId="G-57W3LS3JCZ" />
                 <div className="flex flex-col md:flex-row min-h-screen h-screen">
                     <nav className="w-full md:w-1/4 bg-gray-100 p-4 md:p-6 md:min-h-screen">
                         <h2 className="text-lg md:text-xl font-bold mb-4">Chapters</h2>
@@ -25,7 +28,7 @@ export default async function RootLayout({children}: {children: ReactNode}) {
 
                     <main className="flex-1 p-4 md:p-6 bg-white relative overflow-auto">
                         <Collab />
-												<Modal/>
+                        <Modal />
 
                         {children}
                     </main>
