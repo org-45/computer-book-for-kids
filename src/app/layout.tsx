@@ -8,7 +8,7 @@ import Collab from '@/components/Collab';
 
 import {GoogleAnalytics} from '@next/third-parties/google';
 
-import CommentSection from '@/components/CommentSection';
+// import CommentSection from '@/components/CommentSection';
 
 export const metadata = {
     title: 'CS for starters | org45',
@@ -33,7 +33,6 @@ export default async function RootLayout({children}: {children: ReactNode}) {
                         <Modal />
 
                         {children}
-												<CommentSection/>
                     </main>
                 </div>
             </body>
